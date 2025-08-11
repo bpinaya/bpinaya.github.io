@@ -4,7 +4,7 @@ title: "Hello World!"
 date: 2014-09-22T21:57:40+08:00
 lastmod: 2017-11-29T16:45:40+08:00
 draft: false
-author: "Ben"
+author: "Benjamin Pinaya"
 authorLink: "https://bpinaya.com"
 description: "First thoughts and first post of the blog."
 images: []
