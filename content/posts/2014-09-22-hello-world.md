@@ -1,11 +1,22 @@
-+++
-date = 2014-09-22
-lastmod = 2017-11-29
-draft = false
-tags = ["hello-world"]
-title = "Hello World!"
-summary = """First thoughts and first post of the blog."""
-+++
+---
+weight: 2
+title: "Hello World!"
+date: 2014-09-22T21:57:40+08:00
+lastmod: 2017-11-29T16:45:40+08:00
+draft: false
+author: "Ben"
+authorLink: "https://bpinaya.com"
+description: "First thoughts and first post of the blog."
+images: []
+resources:
+- name: "featured-image"
+  src: "featured-image.png"
+
+tags: ["hello-world"]
+categories: ["Toughts"]
+lightgallery: false
+---
+
 
 So first post ah?
 

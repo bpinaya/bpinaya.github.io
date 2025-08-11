@@ -125,7 +125,7 @@ enableEmoji = true
     # Custom content (HTML format is supported)
     custom = ""
     # whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     # whether to show copyright info
     copyright = true
     # whether to show the author
@@ -296,7 +296,7 @@ enableEmoji = true
     Codeberg = ""
     HuggingFace = ""
     Threads = ""
-    Email = ""
+    Email = "bpinaya@outlook.com"
     Phone = ""
     RSS = ""
 
