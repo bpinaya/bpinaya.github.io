@@ -80,6 +80,15 @@ enableEmoji = true
     url = "/categories/"
     title = ""
 
+  [[menu.main]]
+    weight = 6
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+
 [params]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "dark"

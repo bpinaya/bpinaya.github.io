@@ -1,5 +1,4 @@
 ---
-weight: 2
 title: "Hello World!"
 date: 2014-09-22T21:57:40+08:00
 lastmod: 2017-11-29T16:45:40+08:00
