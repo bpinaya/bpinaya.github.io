@@ -5,9 +5,8 @@ tags = ["Netscope","Nvidia Digits", "Saving SVGs"]
 title = "Visualizing and Saving your Deep Learning Networks with .prototxt"
 summary = """When you need to visualize your Deep Learning Networks."""
 
-[header]
-image = "2018-08-02/nvidiaVsnetscope.png"
-caption = "Image credit: **Personal**"
+featuredImage = "/img/2018-08-02/nvidiaVsnetscope.png"
+featuredImagePreview = "/img/2018-08-02/nvidiaVsnetscope.png"
 
 +++
 

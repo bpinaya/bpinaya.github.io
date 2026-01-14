@@ -9,8 +9,6 @@ authorLink: "https://bpinaya.com"
 description: "First thoughts and first post of the blog."
 images: []
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
 
 tags: ["hello-world"]
 categories: ["Toughts"]

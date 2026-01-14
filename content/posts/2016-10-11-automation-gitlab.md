@@ -5,9 +5,8 @@ tags = ["ros","gitlab","slack","testing","robots"]
 title = "ROS Testing with Gitlab-CI and Slack"
 summary = """Automate your ROS environment builds with Gitlab-CI and get notifications in Slack"""
 
-[header]
-image = "2016-10-11/valkyrieheader.jpg"
-caption = "Image credit: **NASA**"
+featuredImage = "/img/2016-10-11/valkyrieheader.jpg"
+featuredImagePreview = "/img/2016-10-11/valkyrieheader.jpg"
 
 +++
 

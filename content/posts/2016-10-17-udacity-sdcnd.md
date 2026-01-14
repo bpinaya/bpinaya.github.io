@@ -5,9 +5,8 @@ tags = ["udacity","sdcnd"]
 title = "What to expect and how to prepare for Udacity's SDCND"
 summary = """Let's discuss Udacity's Self Driving Car Nanodegree and what you should expect out of it."""
 
-[header]
-image = "2016-10-17/udacityheader.jpg"
-caption = "Image credit: **Udacity**"
+featuredImage = "/img/2016-10-17/udacityheader.jpg"
+featuredImagePreview = "/img/2016-10-17/udacityheader.jpg"
 
 +++
 

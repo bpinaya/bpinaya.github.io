@@ -5,9 +5,8 @@ tags = ["GTCDC2016","Nvidia"]
 title = "GTCDC 2016 Recap"
 summary = """Most of the future self driving cars will have a sticker saying: NVIDIA Inside."""
 
-[header]
-image = "2016-10-28/gtcdcheader.jpg"
-caption = "Image credit: **Personal**"
+featuredImage = "/img/2016-10-28/gtcdcheader.jpg"
+featuredImagePreview = "/img/2016-10-28/gtcdcheader.jpg"
 
 +++
 
