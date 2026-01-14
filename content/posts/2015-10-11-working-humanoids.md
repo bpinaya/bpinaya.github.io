@@ -6,9 +6,8 @@ tags = ["atlas","humanoid","robots"]
 title = "Working with humanoids"
 summary = """This post describes some of my experiences while working with Atlas."""
 
-[header]
-image = "2015-10-11/atlasheader.jpg"
-caption = "Image credit: **Benjamin Pinaya**"
+featuredImage = "/img/2015-10-11/atlasheader.jpg"
+featuredImagePreview = "/img/2015-10-11/atlasheader.jpg"
 
 +++
 Working with a humanoid robot was an awesome new experience for me.
