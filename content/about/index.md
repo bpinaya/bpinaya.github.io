@@ -20,8 +20,8 @@ Currently I work as a Computer Vision Engineer at The Kobi Company in Leuven, Be
 
 ### Education
 
-**Worcester Polytechnic Institute**  
-*Massachusetts Institute of Technology (Cross Registration)*  
+**Master in Robotics Engineering**  
+*Worcester Polytechnic Institute*  
 2017
 
 **BSc in Mechatronics Engineering**  
