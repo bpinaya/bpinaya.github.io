@@ -107,7 +107,7 @@ enableEmoji = true
   [params.author]
     name = "Benjamin Pinaya"
     email = "bpinaya@outlook.com"
-    link = "bpinaya.com"
+    link = "https://bpinaya.com"
 
   # Header config
   [params.header]
