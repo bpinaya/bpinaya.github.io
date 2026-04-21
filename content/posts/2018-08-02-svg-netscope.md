@@ -3,7 +3,7 @@ date = 2018-08-02
 draft = false
 tags = ["Netscope","Nvidia Digits", "Saving SVGs"]
 title = "Visualizing and Saving your Deep Learning Networks with .prototxt"
-summary = """When you need to visualize your Deep Learning Networks."""
+description = "When you need to visualize your Deep Learning Networks."
 
 featuredImage = "/img/2018-08-02/nvidiaVsnetscope.png"
 featuredImagePreview = "/img/2018-08-02/nvidiaVsnetscope.png"

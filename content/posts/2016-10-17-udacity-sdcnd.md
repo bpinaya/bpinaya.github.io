@@ -3,7 +3,7 @@ date = 2016-10-17
 draft = false
 tags = ["udacity","sdcnd"]
 title = "What to expect and how to prepare for Udacity's SDCND"
-summary = """Let's discuss Udacity's Self Driving Car Nanodegree and what you should expect out of it."""
+description = "Let's discuss Udacity's Self Driving Car Nanodegree and what you should expect out of it."
 
 featuredImage = "/img/2016-10-17/udacityheader.jpg"
 featuredImagePreview = "/img/2016-10-17/udacityheader.jpg"

@@ -3,7 +3,7 @@ date = 2016-10-28
 draft = false
 tags = ["GTCDC2016","Nvidia"]
 title = "GTCDC 2016 Recap"
-summary = """Most of the future self driving cars will have a sticker saying: NVIDIA Inside."""
+description = "Most of the future self driving cars will have a sticker saying: NVIDIA Inside."
 
 featuredImage = "/img/2016-10-28/gtcdcheader.jpg"
 featuredImagePreview = "/img/2016-10-28/gtcdcheader.jpg"

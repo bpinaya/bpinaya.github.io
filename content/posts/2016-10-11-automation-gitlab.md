@@ -3,7 +3,7 @@ date = 2016-10-11
 draft = false
 tags = ["ros","gitlab","slack","testing","robots"]
 title = "ROS Testing with Gitlab-CI and Slack"
-summary = """Automate your ROS environment builds with Gitlab-CI and get notifications in Slack"""
+description = "Automate your ROS environment builds with Gitlab-CI and get notifications in Slack"
 
 featuredImage = "/img/2016-10-11/valkyrieheader.jpg"
 featuredImagePreview = "/img/2016-10-11/valkyrieheader.jpg"

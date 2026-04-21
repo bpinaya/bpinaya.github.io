@@ -4,7 +4,7 @@ date = 2015-10-11
 draft = false
 tags = ["atlas","humanoid","robots"]
 title = "Working with humanoids"
-summary = """This post describes some of my experiences while working with Atlas."""
+description = "This post describes some of my experiences while working with Atlas."
 
 featuredImage = "/img/2015-10-11/atlasheader.jpg"
 featuredImagePreview = "/img/2015-10-11/atlasheader.jpg"
