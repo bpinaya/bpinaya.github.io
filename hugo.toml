@@ -60,10 +60,18 @@ enableEmoji = true
     name = "Projects"
     url = "/projects/"
     title = ""
-  
 
   [[menu.main]]
     weight = 4
+    identifier = "talks"
+    pre = ""
+    post = ""
+    name = "Talks"
+    url = "/talks/"
+    title = ""
+
+  [[menu.main]]
+    weight = 5
     identifier = "tags"
     pre = ""
     post = ""
@@ -72,7 +80,7 @@ enableEmoji = true
     title = ""
 
   [[menu.main]]
-    weight = 5
+    weight = 6
     identifier = "categories"
     pre = ""
     post = ""
@@ -81,7 +89,7 @@ enableEmoji = true
     title = ""
 
   [[menu.main]]
-    weight = 6
+    weight = 7
     identifier = "about"
     pre = ""
     post = ""
