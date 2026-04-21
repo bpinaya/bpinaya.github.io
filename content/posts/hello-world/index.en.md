@@ -10,7 +10,7 @@ images: []
 resources:
 
 tags: ["hello-world"]
-categories: ["Toughts"]
+categories: ["Thoughts"]
 lightgallery: false
 ---
 
